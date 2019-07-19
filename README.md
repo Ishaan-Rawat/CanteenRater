@@ -1,4 +1,4 @@
-# Foodtopia
+# CanteenRater
 A full stack web application serving you with information about which NSIT eatery to head to when looking for ideal food :)
 
 ## **Features**
