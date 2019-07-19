@@ -1,5 +1,5 @@
 # CanteenRater
-A full stack web application serving you with information about which NSIT eatery to head to when looking for ideal food :)
+A full stack web application serving you with information about various eateries in NSUT.
 
 ## **Features**
 
