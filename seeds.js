@@ -11,7 +11,7 @@ var data = [
         address: "NSUT Campus",
         author:{
             id : "588c2e092403d111454fff76",
-            username: "Muskan"
+            username: "Ishaan"
         }
     },
     {
@@ -22,7 +22,7 @@ var data = [
         address: "NSUT Campus",
         author:{
             id : "588c2e092403d111454fff76",
-            username: "Divya"
+            username: "Ishaan"
         }
     },
     {
@@ -33,7 +33,7 @@ var data = [
         address: "NSUT Campus",
         author:{
             id : "588c2e092403d111454fff76",
-            username: "divyar10"
+            username: "Ishaan"
         }
     },
     {
@@ -44,7 +44,7 @@ var data = [
         address: "NSUT Campus",
         author:{
             id : "588c2e092403d111454fff76",
-            username: "Divya"
+            username: "Ishaan"
         }
     }
 ];
