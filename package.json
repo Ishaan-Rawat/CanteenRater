@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/divyar10/FoodTopia#readme",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "body-parser": "^1.18.2",
     "cat-me": "^1.0.3",
     "connect-flash": "^0.1.1",
